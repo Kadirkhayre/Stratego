@@ -1,0 +1,10 @@
+release/game.o
+release/main.o
+release/mainwindow.o
+release/gstrategoboard.o
+release/obj.o
+release/piece.o
+release/position.o
+release/square.o
+release/moc_mainwindow.o
+release/moc_gstrategoboard.o

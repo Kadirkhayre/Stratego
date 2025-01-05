@@ -1,0 +1,10 @@
+debug/game.o
+debug/main.o
+debug/mainwindow.o
+debug/gstrategoboard.o
+debug/obj.o
+debug/piece.o
+debug/position.o
+debug/square.o
+debug/moc_mainwindow.o
+debug/moc_gstrategoboard.o
